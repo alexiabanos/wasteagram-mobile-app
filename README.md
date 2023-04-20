@@ -13,6 +13,6 @@ Wasteagram is an Instragram-style mobile app created using Flutter SDK that allo
 
 ## User Cases / User Stories
 
-Food service workers can take a photo of wasted food, input the quantity of food wasted, and submit a new post.
-The app captures the current date and device location with the new post.
-Users can view all posts on a main "list screen" and tap on any post to see more information.
+* Food service workers can take a photo of wasted food, input the quantity of food wasted, and submit a new post.
+* The app captures the current date and device location with the new post.
+* Users can view all posts on a main "list screen" and tap on any post to see more information.
